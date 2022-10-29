@@ -3,7 +3,7 @@
 and to be there by side with that technology i am facinated to learn most of the technologies
 and had grat enthuast to do projects of the same
 - 🌱 Nice hand's on  Web Development(Front-end)😉, C✌, C++, Python🐍, MySQl
-- 😄 I’m currently learning JAVASCRIPT, ROS
+- 😄 I’m currently learning JAVASCRIPT, ROS, GAZEBO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
