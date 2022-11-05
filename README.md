@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning and knowing about all the latest tecknologies ✨ coming 
 and to be there by side with that technology i am facinated to learn most of the technologies
 and had grat enthuast to do projects of the same
-- 🌱 Nice hand's on  Web Development(Front-end)😉, C✌, C++, Python🐍, MySQl
-- 😄 I’m currently learning JAVASCRIPT, ROS, GAZEBO
+- 🌱 Nice hand's on  Web Development(Front-end)😉, C✌, C++, Python🐍, MySQL💻
+- 😄 I’m currently learning JAVASCRIPT(Back-end), ROS 😇, GAZEBO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
