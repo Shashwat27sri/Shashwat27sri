@@ -3,8 +3,8 @@
 and to be there by side with that technology i am facinated to learn most of the technologies
 and had grat enthuast to do projects of the same
 - 🌱 Nice hand's on  Web Development(Front-end)😉, C✌, C++, Python🐍, MySQL💻,  JAVASCRIPT, PHP, JAVA☕
-- 😄 I’m currently learning REACT, DSA
-- 😯 Also tried hands on ROS 😇, GAZEBO, ARUCO MAKER
+- 😄 Grinding my hands on MERN Stack , DSA
+- 😯 Also tried hands on ROS 😇, GAZEB
 - 💞️ I’m looking for development internship or collabration on Open-Source 
 - 📫 How to reach me 
 
